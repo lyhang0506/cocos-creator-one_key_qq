@@ -1,0 +1,18 @@
+{
+  "name": "build_custom",
+  "version": "0.0.1",
+  "description": "一份简单的扩展包",
+  "author": "Cocos Creator",
+  "main": "main.js",
+  "main-menu": {
+    "定制构建/Build_WX": {
+      "message": "build_custom:buildWX"
+    },
+    "定制构建/Build_QQ": {
+      "message": "build_custom:buildQQ"
+    },
+    "定制构建/Build_QQ_Debug": {
+      "message": "build_custom:buildQQDebug"
+    }
+  }
+}
